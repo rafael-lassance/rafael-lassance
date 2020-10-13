@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 </h4>
 
-<br>
+
 
 <h4 align="left">Front-end Technologies: 
 
@@ -37,13 +37,13 @@ Here are some ideas to get you started:
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40"      height="40"/> </a>
 </h4>
 
-<br>
+
 
 <h4 align="left">Databases : 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40"        height="40"/> </a>
 </h4>
 
-<br>
+
 
 <h4 align="left">Other Technologies:
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
