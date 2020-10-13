@@ -21,11 +21,14 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me through <a href="https://www.linkedin.com/in/rafael-loamartinez/" target="_blank">LinkedIn</a></h3>
 <h3 align="left">Languages and Tools:</h3>
-<h2 align="left">Back-end Technologies: </h2>
-<p align="left">
+<h4 align="left">Back-end Technologies:
 <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40"            height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+
+</h4>
+
+<p align="left">
 </p>
 
 
