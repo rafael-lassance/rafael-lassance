@@ -49,5 +49,6 @@ Here are some ideas to get you started:
 <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40"                height="40"/> </a>
 </h3>
 
-<h3>Reach me out:</h3>[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-loamartinez/)](https://www.linkedin.com/in/rafael-loamartinez/)
+<h3>Reach me out:</h3>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-loamartinez/)](https://www.linkedin.com/in/rafael-loamartinez/)
 
