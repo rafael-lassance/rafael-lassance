@@ -50,5 +50,6 @@ Here are some ideas to get you started:
 </h3>
 
 <h3>Reach me out:</h3> 
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-loamartinez/)](https://www.linkedin.com/in/rafael-loamartinez/)
 
