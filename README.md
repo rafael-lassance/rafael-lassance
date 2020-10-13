@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there, welcome to my GitHub page!👋
 
-<h3 align="left">I am a software development student from Rio de Janeiro, Brazil</h3>
+<h3 align="left">I am a software development student from Rio de Janeiro, Brazil.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
