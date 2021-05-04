@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, welcome to my GitHub page!👋
+### Hi there!👋
 
-<p align="left">I am a software development student from Rio de Janeiro, Brazil.</p>
+<p align="left">I am a software developer from Rio de Janeiro, Brazil.</p>
+<p>I'm currently working with PHP and the framework Laravel.</p>
 
 <h4 align="left">Languages and Tools:</h4>
 
