@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hi there!👋
 
 <p align="left">I am a software developer from Rio de Janeiro, Brazil.</p>
-<p>I'm currently working with PHP and the framework Laravel.</p>
+<p>I'm currently working with PHP.</p>
 
 <h4 align="left">Languages and Tools:</h4>
 
