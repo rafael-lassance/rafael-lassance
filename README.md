@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <p>I'm currently working with the PHP stack.</p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafael-lassance&show_icons=true&locale=en" alt="rafael-lassance" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?PAT_1=rafael-lassance&username=rafael-lassance&show_icons=true&locale=en" alt="rafael-lassance" />
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael-lassance&show_icons=true&locale=en&layout=compact" alt="rafael-lassance" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?PAT_1=rafael-lassance&username=rafael-lassance&show_icons=true&locale=en&layout=compact" alt="rafael-lassance" />
 </p>
 
 <br><br><br><br><br><br><br>
