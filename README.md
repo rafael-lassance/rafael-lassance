@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there! 👋
 
-<p align="left">I am a Software Engineer from Rio de Janeiro, Brazil. </p>
+<p align="left">I am a Software Engineer from Rio de Janeiro, Brazil. 💻</p>
 <p>I'm currently working with the PHP stack.</p>
 <!--
   <p>
