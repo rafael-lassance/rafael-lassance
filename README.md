@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ### Hi there! 👋
 
-<p align="left">I am a Software Engineer from Rio de Janeiro, Brazil. 💻 </p>
-<p>I'm currently working with the PHP stack. 👨‍💻</p>
+<p align="left">I am a Software Engineer from Rio de Janeiro, Brazil. </p>
+<p>I'm currently working with the PHP stack.</p>
 <!--
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafael-lassance&show_icons=true&locale=en" alt="rafael-lassance" />
