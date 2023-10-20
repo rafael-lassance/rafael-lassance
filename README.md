@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there!👋
+### Hi there! 👋
 
-<p align="left">I am a Software Engineer from Rio de Janeiro, Brazil. 💻</p>
-<p>I'm currently working with the PHP stack. 👨‍💻 ☕ ⚡ </p>
-
+<p align="left">I am a Software Engineer from Rio de Janeiro, Brazil. 💻 </p>
+<p>I'm currently working with the PHP stack. 👨‍💻 ☕ ⚡</p>
+<!--
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafael-lassance&show_icons=true&locale=en" alt="rafael-lassance" />
   </p>
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael-lassance&show_icons=true&locale=en&layout=compact" alt="rafael-lassance" />
   </p>
 <br><br><br><br><br><br><br>
-
+-->
 
 <h4 align="left">Languages and Tools:</h4>
 
@@ -113,6 +113,6 @@ Here are some ideas to get you started:
 
 <br>
 
-<h4>📫 Reach me out 👇🏼</h4> 
+<h4>👇🏼 📫 Reach me out </h4> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-loamartinez/)](https://www.linkedin.com/in/rafael-loamartinez/)
